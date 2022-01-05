@@ -1,0 +1,7 @@
+{
+  "sessionTokenRequestUrl": "https://api.universalpay.es/token",
+  "paymentOperationActionUrl": "https://api.universalpay.es/payments",
+  "cashierUrl": "https://cashierui.universalpay.es/ui/cashier",
+  "javaScriptUrl": "https://cashierui.universalpay.es/js/api.js",
+  "mobileCashierUrl": "https://cashierui.universalpay.es/react-frontend/index.html"
+}
