@@ -5,7 +5,7 @@ This library provides integration access to the UniversalPay Api.
 Payments NodeJS SDK is a small library/sample of NodeJs code that you can use to quickly integrate with the Payments system and submit transactions, check their status and more.
 
 ### Before you Begin
-Before using the Payments NodeJS SDK you should be familiar with the contents of the API Specification for Merchants document as it describes all fields and their meaning within a given payment transaction.
+Before using the Payments NodeJS SDK you should be familiar with the contents of the Overview document as it describes all fields and their meaning within a given payment transaction.
 
 ### Setup your Project
 Run `npm i` to install project dependence. 
