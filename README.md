@@ -1,4 +1,4 @@
-# BOIPA-Turnkey-NodeJS-SDK
+# UniversalPay-Turnkey-NodeJS-SDK
 This library provides integration access to the UniversalPay Api.
 
 ## Quick Start
